@@ -1,0 +1,5 @@
+echo pease enter your name
+
+read name 
+echo "the variable name value is ":$name
+

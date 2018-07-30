@@ -1,0 +1,4 @@
+echo "please enter 5 devops tools"
+read ven ven1 ven2 ven3 ven4
+echo "DevOps tools are :" $ven $ven2 
+
